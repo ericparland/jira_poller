@@ -1,0 +1,12 @@
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\bin\Release\JiraPoller.exe.config
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\obj\Release\JiraPoller.Form1.resources
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\obj\Release\JiraPoller.Properties.Resources.resources
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\obj\Release\JiraPoller.csproj.GenerateResource.Cache
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\bin\Release\JiraPoller.exe
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\bin\Release\JiraPoller.pdb
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\bin\Release\fastjson.dll
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\bin\Release\Newtonsoft.Json.dll
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\bin\Release\Newtonsoft.Json.xml
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\obj\Release\JiraPoller.exe
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\obj\Release\JiraPoller.pdb
+C:\Users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\obj\Release\JiraPoller.csprojResolveAssemblyReference.cache

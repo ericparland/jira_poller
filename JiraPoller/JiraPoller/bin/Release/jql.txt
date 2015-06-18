@@ -1,0 +1,1 @@
+{"jql": "project = OPS AND issuetype = 'DT Task' AND assignee in (dt-queue)","startAt": 0,"maxResults": 15,"fields": ["summary","status","assignee"]}

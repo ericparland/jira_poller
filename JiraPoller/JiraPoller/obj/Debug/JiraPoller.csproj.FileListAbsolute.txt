@@ -1,0 +1,12 @@
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\bin\Debug\JiraPoller.exe.config
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\bin\Debug\JiraPoller.exe
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\bin\Debug\JiraPoller.pdb
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\obj\Debug\JiraPoller.csprojResolveAssemblyReference.cache
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\obj\Debug\JiraPoller.Properties.Resources.resources
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\obj\Debug\JiraPoller.csproj.GenerateResource.Cache
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\obj\Debug\JiraPoller.exe
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\obj\Debug\JiraPoller.pdb
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\bin\Debug\fastjson.dll
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\bin\Debug\Newtonsoft.Json.dll
+c:\users\erik.parland\documents\visual studio 2013\Projects\JiraPoller\JiraPoller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erik.parland\Documents\Visual Studio 2013\Projects\JiraPoller\JiraPoller\obj\Debug\JiraPoller.Form1.resources
